@@ -1,27 +1,12 @@
 # actv7
 
-A new Flutter project created with FlutLab - https://flutlab.io
-
-## Getting Started
-
-- ![image](https://github.com/user-attachments/assets/a091c4e0-cff5-4ac2-a346-ced76027d62c)
-- ![image](https://github.com/user-attachments/assets/af497be1-7b15-46d1-9f96-8a6f79503e23)
-- ![image](https://github.com/user-attachments/assets/d38fc6c3-fe0e-4af8-8ebe-d8244a1c50de)
-- ![image](https://github.com/user-attachments/assets/e2bf5d8d-8898-467b-96cd-3937f8563afb)
-- ![image](https://github.com/user-attachments/assets/fa825ca8-30cb-4f8d-9f5b-1e991c26801c)
-- ![image](https://github.com/user-attachments/assets/dc4c7748-e5e3-4c54-8939-fee0551b3387)
+![image](https://github.com/user-attachments/assets/c42defa5-8107-4ae8-bcaa-4547680f58b5)
+![image](https://github.com/user-attachments/assets/e3a56b75-04f1-4248-ac4a-3d692b64f29f)
+![image](https://github.com/user-attachments/assets/288f33ae-401a-4ddd-b4a5-ef4fa32b242b)
+![image](https://github.com/user-attachments/assets/a0d33112-81c7-4a98-a7f1-2c586a0451f9)
+![image](https://github.com/user-attachments/assets/b1064556-dd80-4b3a-b833-74815a1c165f)
+![image](https://github.com/user-attachments/assets/1b218468-9f9d-4e6d-833c-f62aeec6e52e)
 
 
-A few resources to get you started if this is your first Flutter project:
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
